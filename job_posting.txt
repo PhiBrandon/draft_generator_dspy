@@ -1,0 +1,17 @@
+Need the ability to pull a unit image from Zillow. 
+
+The first listed image.
+
+Ideally, we would run a scraper on a lambda instance that would take a property address as input and it returns the first image that is shown on Zillow.
+
+If you have another solution, I would be interested.
+
+I prefer not to manage my own scraper!
+
+I have looked around and I don't see anything reliable.
+
+I have a program that builds out something called a proforma.  So, a user enters the address of a property as step 1.
+
+When they enter the address, I need to be able to get an image of that property.  It doesn't HAVE to be from Zillow but they seem to have the most unit images.
+
+I just need to get the url of the image so I can use it in my solution.
