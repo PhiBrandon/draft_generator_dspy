@@ -1,17 +1,42 @@
-Need the ability to pull a unit image from Zillow. 
+At BWX Technologies, Inc. (NYSE: BWXT), we are People Strong, Innovation Driven. Headquartered in Lynchburg, Virginia, BWXT is a Defense News Top 100 manufacturing and engineering innovator that provides safe and effective nuclear solutions for global security, clean energy, environmental restoration, nuclear medicine and space exploration. With more than 7,000 employees, BWXT has 14 major operating sites in the U.S., Canada and the U.K. We are the sole manufacturer of naval nuclear reactors for U.S. submarines and aircraft carriers. Our company supplies precision manufactured components, services and fuel for the commercial nuclear power industry across four continents. Our joint ventures provide environmental restoration and operations management at a dozen U.S. Department of Energy and NASA facilities. BWXT's technology is driving advances in medical radioisotope production in North America and microreactors for various defense and space applications. For more information, visit www.bwxt.com . Follow us on LinkedIn , X , Facebook and Instagram .
 
-The first listed image.
+BWXT is currently seeking a Data Engineer for its Advanced Technologies location in Barberton, OH!
 
-Ideally, we would run a scraper on a lambda instance that would take a property address as input and it returns the first image that is shown on Zillow.
+BWXT is People Strong, Innovation Driven - be part of BWXT's innovation hub. BWXT's Advanced Technologies (AT) group researches, designs, and develops innovative new nuclear reactors, medical radioisotope production systems, and develops data science and advanced manufacturing techniques for leading-edge applications.
 
-If you have another solution, I would be interested.
+The BWXT Advanced Technology (AT) Research group is seeking an R&D Data Engineer to help with a wide range of innovative nuclear products for space power and propulsion, clean energy, and radiopharmaceuticals. AT-Research creates new methods for microreactor design and advanced manufacturing solutions, and the power of data is making a new future possible. If you are passionate about data, especially its applications to the design, engineering, and manufacturing of world-changing products, then you will find BWXT an exciting and fulfilling place to work. As a data engineer you will learn and grow with opportunities apply your skills across a wide range of novel processes in development.
 
-I prefer not to manage my own scraper!
+If you are looking for a career where your experience is valued, innovative thinking is fostered, and barrier-free teamwork is embraced every day, then this opportunity is for you. Relocations benefits are available if eligible.
 
-I have looked around and I don't see anything reliable.
+Job Description / Duties:
+Freedom to pilot technology stacks and data architecture to facilitate dynamic R&D processes, to included HPCC for data workloads on premises and/or cloud. You will then use this experience to inform the future direction across the enterprise.
+Work with design and manufacturing development engineers to deploy data acquisition and control systems for experiment campaigns, development testing, and predictive quality.
+Design infrastructure for extracting and transforming structured and unstructured data, from sensor and imagery data sources, extraction of level 0/1 data from machines operations, quality instrumentation, lasers and CT scans to data warehouses and data lakes in the cloud or on-prem.
+Automate data pipelines and analytics, for machine learning, digital twins, and data modeling.
 
-I have a program that builds out something called a proforma.  So, a user enters the address of a property as step 1.
 
-When they enter the address, I need to be able to get an image of that property.  It doesn't HAVE to be from Zillow but they seem to have the most unit images.
+Job Qualifications / Requirements:
+A bachelor's degree in computer science or computer engineering. Master's or other degree in statistics, engineering, robotics, or related discipline a plus.
+Minimum of two years of related experience is required.
+Python and SQL skills with database query and authoring. Other programming skills a plus
+Familiarity with the Azure ecosystem, or on-prem technology stack a plus
+Mix of remote and on-site work. Travel is flexible, 10-20% domestic and international possible.
+Must be a US Citizen with no dual citizenship. Must be able to obtain and maintain a U.S. Department of Energy (DOE) security clearance.
 
-I just need to get the url of the image so I can use it in my solution.
+
+Benefits:
+12 paid holidays which include a winter holiday shutdown.
+Tuition Assistance.
+This position will work a 9/80/flexible schedule.
+24/7 Employee Assistance Program (EAP) available to you, your spouse, parents, and parents-in-law, even if they are not covered under your BWXT plan!
+BWXT employees have access to exclusive perks and discounts on everything from cars and electronics to banking services and a host of popular brands / products through Perks@Work.
+Medical, dental, vision, short term disability, service-based retirement contributions with additional 401k match and more!
+
+
+Pay: $ 62,000 - $ 97,000
+
+The base salary range for this position in Ohio (US-OH) at the start of employment is expected to be between $62,000 and $97,000 per year. However, the base salary offered is based on local job market factors, and may vary further depending on factors specific to the selected job candidate, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to these considerations, the total compensation package for this position may also include other elements, such as an annual cash incentive in addition to a full range of medical, retirement, and/or other benefits. Details of participation in these benefit plans will be provided at such time the selected job candidate receives an offer of employment. If hired, the selected job candidate will be employed 'at-will,' unless employed at a location and in a position subject to a collective bargaining agreement. The company further reserves the right to modify base salary (as well as any other discretionary payment, compensation or benefit program) at any time, including for reasons related to individual performance, company or individual department/team performance, and other market factors.
+
+As a federal government contractor, BWX Technologies, Inc. and any subsidiaries, affiliates and related entities ("BWXT" or the "Company") complies with all federal, state, and local laws and customer requirements regarding health and safety protocols. As such, all BWXT new hires will be required to adhere to applicable Company health and safety requirements within the workplace as a condition of employment.
+
+Applicants selected will be subject to a Federal background investigation and must meet eligibility requirements for access to classified information or matter. Position requires U.S. citizenship with (no dual citizenship) ability to obtain and maintain a Department of Energy (DOE) security clearance which involves an extensive criminal and financial background investigation, drug test and previous employment reference verifications.

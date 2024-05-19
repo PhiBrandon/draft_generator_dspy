@@ -80,11 +80,9 @@ class Revision(BaseModel):
 
 class FinalDocument(BaseModel):
     """Polished final document, professionally structured."""
-
-    scratch_pad: str
     final_document: str = Field(
         ...,
-        description=""" Polished final document that only structures the revised proposal, POC plan, MVP schedule, and the detailed report. This will be shared with project stakeholders, so ensure it is well-organized, clearly written, and professionally formatted""",
+        description=""" Polished final document that only structures the revised proposal, POC plan, and MVP schedule. This will be shared with project stakeholders, so ensure it is well-organized, clearly written, and professionally formatted""",
     )
 
 
@@ -221,7 +219,9 @@ data_doc = DataDocGen()
 combined = data_doc(
     job_posting=job_posting,
     resume=resume,
+    # Time to deliver the POC
     time_to_deliver="12 hours",
+    # Time constraint for MVP development
     time_constraint="20 hours per week 2 months",
 )
 print(combined)
