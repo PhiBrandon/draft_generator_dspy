@@ -135,34 +135,14 @@ class JobInfo(dspy.Module):
         self.industry = dspy.TypedPredictor(IndustrySignature)
         self.mvp = dspy.TypedPredictor(MvpSignature)
 
-    def forward(self, job_description, llm, trace, id):
-        skills_generation = create_generation(trace=trace, name="skills", trace_id=id)
+    def forward(self, job_description):
         skills = self.job_skills(job_description=job_description).job_skills
-        generation_end(skills_generation, skills, llm)
-        business_mission_generation = create_generation(
-            trace=trace, name="business_mission", trace_id=id
-        )
         mission = self.business_mission(
             job_description=job_description
         ).business_mission
-        generation_end(business_mission_generation, mission, llm)
-        value_generation = create_generation(
-            trace=trace, name="role_value", trace_id=id
-        )
         value = self.role_value(job_description=job_description).role_value
-        generation_end(
-            value_generation,
-            value,
-            llm,
-        )
-        industry_generation = create_generation(
-            trace=trace, name="industry", trace_id=id
-        )
         industry = self.industry(job_description=job_description).industry
-        generation_end(industry_generation, industry, llm)
-        mvp_generation = create_generation(trace=trace, name="mvp", trace_id=id)
         mvp = self.mvp(job_description=job_description).mvp
-        generation_end(mvp_generation, mvp, llm)
         return JobInformation(
             skills=skills, mission=mission, role_value=value, industry=industry, mvp=mvp
         )
@@ -177,5 +157,5 @@ if __name__ == "__main__":
     )
     id = str(uuid.uuid4())
     job_info = JobInfo()
-    output = job_info(job_description=job_text, llm=llm, trace=trace, id=id)
+    output = job_info(job_description=job_text)
     print(output)
