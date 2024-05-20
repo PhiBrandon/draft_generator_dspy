@@ -1,0 +1,68 @@
+Description 
+ Leidos’s Office of Technology, Digital Modernization Sector team currently has an opening for a Data Solutions Engineer with experience designing and implementing complex business data solutions, including enterprise data meshes, data platform architecture, data pipelines, governance, and data quality over multiple data technologies (e.g. relational, NoSQL, cloud storage, hybrid cloud, commercial and open source).
+ 
+  Location: Reston, VA. Potential for remote work.
+ 
+  Position Summary
+  You will team with other talented engineers, developers, and data scientists to shape and design enterprise-scale data platforms, solving some of the country’s biggest data problems, ranging from enterprise IT operations to National Defense. You will coordinate closely with business development, internal research & development (R&D), and other subject matter experts (SME) staff to support new business development by crafting compelling narratives of differentiated approaches and high-performance execution, including pre-proposal capture support and proposal development. Candidates should either possess or be capable of obtaining a DoD Clearance at the Secret level.
+ 
+ 
+   Primary Responsibilities
+   
+  
+   Provide the technical leadership and direction for the execution of DoD IT new business during the capture phase, through proposal development and into program startup upon award.
+   Lead data solution architecture definition of complete Enterprise Service solutions covering the lifecycle from early CONOPS, to requirements, development, deployment and sustainment.
+   Partner with the business development team in supporting the shaping and development of technical solutions, basis of estimates, and industry relationships via responses to RFPs, new business reviews, white papers and customer shaping calls.
+   Key activities for this role will include requirement definition, architecture development, analysis of alternatives / trade-off studies, technical planning, and design.
+   Engage with IRAD teams, internal AI/ML Accelerator staff and strategic partners to provide differentiated solutions for current and future customers.
+   Analyze and describe AS-IS system CONOPS, function and technical architectures.
+   Develop TO-BE solutions, including CONOPS, operational, physical, technical and data views.
+   Prepare for and lead technical readiness reviews.
+   Lead development of written and oral technical proposals, to include support for internal reviews and adjudication of feedback.
+   Produce technical roadmaps that advance the technical baseline and address both the technical and the business factors.
+   Lead engineering assessments and recommendations for selection of investments for a range of large scale COTS solutions across various vendor offerings.
+   Provide options with recommendations for integrating vendor solutions for large scale enterprises and strategies for technical refresh and deployment into the enterprise.
+  
+ 
+ 
+ 
+   Basic Qualifications
+   
+  
+   BS degree and 12 – 15 years of prior relevant experience or Masters with 10 – 13 years of prior relevant experience. May possess a Doctorate in technical domain.
+   3+ years of experience supervising or leading technical projects and teams
+   Previous experience with COTS and open source solutions with broad expertise guiding project and operations across multiple related IT disciplines throughout the project lifecycle
+   Understanding of modern data tools and approaches (e.g. SQL, NoSQL, data catalogs)
+   Experience developing data platform, data fabrics and data mesh solutions to meet cybersecurity requirements for the federal government
+   Experience in software engineering and design, including working cooperatively with Data Scientists
+   Understanding of data cataloging / data quality / data security
+   Prior hands-on experience with relational data / SQL / data modelling and scripting tools
+   Ability to communicate with executive leadership regarding matters of significant importance to the organization.
+   Experience and ability to successfully negotiate and influence others to understand and accept new concepts, practices and approaches.
+   Experience estimating all technical and operations labor and material costs
+   Experience identifying and assessing business impacts to proposed changes to a largely technical solution or enterprise operations
+   Excellent written and oral communication capability
+  
+ 
+ 
+  Must have an active Secret security clearance.
+ 
+ 
+ 
+   Preferred Qualifications
+   
+  
+   Architecture Framework knowledge and certification
+   Familiarity with the processes, tools and techniques to develop AI/ML solutions
+   Experience developing strategic roadmaps for IT services and providing technical oversight to ensure developed solutions, satisfy customer and business requirements
+   Recent experience migrating and sustaining applications from on-premise solutions to CSPs
+   Knowledge and experience with the NIST Risk Management Framework (RMF)
+  
+ 
+  Original Posting Date: 2024-04-01
+  While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+ 
+  Pay Range: Pay Range $122,200.00 - $220,900.00
+ 
+  The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+  #Remote
