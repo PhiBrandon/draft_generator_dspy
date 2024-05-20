@@ -83,6 +83,14 @@ class MvpIdea(BaseModel):
     )
 
 
+class JobInformation(BaseModel):
+    skills: list[JobSkills]
+    mission: BusinessMission
+    role_value: RoleValue
+    industry: Industry
+    mvp: MvpIdea
+
+
 class SkillSignature(dspy.Signature):
     """Extract skills from job description"""
 
@@ -155,6 +163,9 @@ class JobInfo(dspy.Module):
         mvp_generation = create_generation(trace=trace, name="mvp", trace_id=id)
         mvp = self.mvp(job_description=job_description).mvp
         generation_end(mvp_generation, mvp, llm)
+        return JobInformation(
+            skills=skills, mission=mission, role_value=value, industry=industry, mvp=mvp
+        )
 
 
 if __name__ == "__main__":
@@ -167,3 +178,4 @@ if __name__ == "__main__":
     id = str(uuid.uuid4())
     job_info = JobInfo()
     output = job_info(job_description=job_text, llm=llm, trace=trace, id=id)
+    print(output)

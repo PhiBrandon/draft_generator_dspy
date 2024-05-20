@@ -10,3 +10,9 @@
 5. Update `job_posting.txt` with the job posting you want to write a proposal for.
 6. Update `resume.txt` with any relevant text information about your credentials.
 7. Run `python start.py`
+
+
+# Job Information Generator
+1. Follow above steps to setup the environment
+2. Update the job_text.txt file with the job description.
+3. Run `python job_skills.py`
