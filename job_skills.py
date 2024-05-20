@@ -128,12 +128,6 @@ class JobInfo(dspy.Module):
 
 if __name__ == "__main__":
     job_text = open("job_text.txt", "r").read()
-    trace = langfuse.trace(
-        name="JobInfo_dspy",
-        id=id,
-        input={"job_posting": job_text},
-    )
-    id = str(uuid.uuid4())
     job_info = JobInfo()
     output = job_info(job_description=job_text)
     print(output)
