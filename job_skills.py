@@ -9,28 +9,6 @@ from typing import Literal
 
 load_dotenv()
 
-langfuse = Langfuse()
-
-
-def create_generation(trace, name, trace_id):
-    return trace.generation(name=name, trace_id=trace_id)
-
-
-def generation_end(generation, output, llm):
-    generation.end(
-        output=output,
-        input={
-            "input": llm.history[-1]["kwargs"]["messages"],
-            "prompt": llm.history[-1]["prompt"],
-        },
-        usage={
-            "input": llm.history[-1]["response"].usage.input_tokens,
-            "output": llm.history[-1]["response"].usage.output_tokens,
-        },
-        model=llm.history[-1]["kwargs"]["model"],
-    )
-
-
 # Configure dspy
 # Sonnet -> claude-3-sonnet-20240229
 # Haiku -> claude-3-haiku-20240307
