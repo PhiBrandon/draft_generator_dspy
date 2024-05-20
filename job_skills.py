@@ -1,9 +1,7 @@
 import dspy
 import os
-import uuid
 from dsp.modules.anthropic import Claude
 from dotenv import load_dotenv
-from langfuse import Langfuse
 from pydantic import BaseModel, Field
 from typing import Literal
 
