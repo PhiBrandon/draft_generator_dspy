@@ -62,6 +62,27 @@ class BusinessMission(BaseModel):
     )
 
 
+class RoleValue(BaseModel):
+    role_value: str = Field(
+        ...,
+        description="Value that the role would provide to the value if hired. Explicitly stated or inferred from the Job description.",
+    )
+    value_reference: str = Field(
+        ..., description="Sentence(s) or paragraph(s) where the value was referenced."
+    )
+
+
+class Industry(BaseModel):
+    industry: str
+
+
+class MvpIdea(BaseModel):
+    idea: str = Field(
+        ...,
+        description="Idea for an MVP that the candidate could build based on the job description.",
+    )
+
+
 class SkillSignature(dspy.Signature):
     """Extract skills from job description"""
 
@@ -76,11 +97,35 @@ class BusinessMissionSignature(dspy.Signature):
     business_mission: BusinessMission = dspy.OutputField()
 
 
+class RoleValueSignature(dspy.Signature):
+    """Extract or infer the value the role would provide to the company if hired."""
+
+    job_description: str = dspy.InputField()
+    role_value: RoleValue = dspy.OutputField()
+
+
+class IndustrySignature(dspy.Signature):
+    """Infer the industry the business operates in based on the job description."""
+
+    job_description: str = dspy.InputField()
+    industry: Industry = dspy.OutputField()
+
+
+class MvpSignature(dspy.Signature):
+    """Generate an MVP idea that a candidate could build based on the job description."""
+
+    job_description: str = dspy.InputField()
+    mvp: MvpIdea = dspy.OutputField()
+
+
 class JobInfo(dspy.Module):
     def __init__(self):
         super().__init__()
         self.job_skills = dspy.TypedPredictor(SkillSignature)
         self.business_mission = dspy.TypedPredictor(BusinessMissionSignature)
+        self.role_value = dspy.TypedPredictor(RoleValueSignature)
+        self.industry = dspy.TypedPredictor(IndustrySignature)
+        self.mvp = dspy.TypedPredictor(MvpSignature)
 
     def forward(self, job_description, llm, trace, id):
         skills_generation = create_generation(trace=trace, name="skills", trace_id=id)
@@ -93,6 +138,23 @@ class JobInfo(dspy.Module):
             job_description=job_description
         ).business_mission
         generation_end(business_mission_generation, mission, llm)
+        value_generation = create_generation(
+            trace=trace, name="role_value", trace_id=id
+        )
+        value = self.role_value(job_description=job_description).role_value
+        generation_end(
+            value_generation,
+            value,
+            llm,
+        )
+        industry_generation = create_generation(
+            trace=trace, name="industry", trace_id=id
+        )
+        industry = self.industry(job_description=job_description).industry
+        generation_end(industry_generation, industry, llm)
+        mvp_generation = create_generation(trace=trace, name="mvp", trace_id=id)
+        mvp = self.mvp(job_description=job_description).mvp
+        generation_end(mvp_generation, mvp, llm)
 
 
 if __name__ == "__main__":
