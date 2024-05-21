@@ -1,0 +1,955 @@
+job_description,skills
+"""This position is 100% remote, however the candidate must have and maintain a residence located in Maine. 
+This position requires an Active Secret Clearance or the ability to obtain one. (Must be a US Citizen)
+Job Summary:This position is supporting the NOAA contract. The contract is between two different primes, however this particular role is with a sub-contractor. This will be supporting and implementing data modeling and the current 14th Wx datasets. This also will be responsible for data migration strategy from Oracle to MongoDB, as well as the design process to upload and replicate to the cloud environment.
+Details:
+
+ Interact with developers and application teams
+ Need to have data and API experience
+ Experience with handling data documentation
+ Experience with AWS cloud is required
+ Team is taking stored procedures from Oracle and migrating to NoSQL, specifically MongoDB
+ Experience with Python is highly desired, but similar programming languages could be considered
+ Experience with network communications is a plus
+ Weather experience is a plus
+
+If you are a detail-oriented individual with a passion for data engineering and possess the required qualifications, we encourage you to apply for this exciting opportunity to contribute to our team's success.
+Job Types: Full-time, Contract
+Pay: $75.00 - $93.00 per hour
+Expected hours: 40 per week
+Benefits:
+
+ 401(k)
+ Dental insurance
+ Health insurance
+
+Compensation package:
+
+ Weekly pay
+
+Experience level:
+
+ 5 years
+
+Schedule:
+
+ 8 hour shift
+
+Application Question(s):
+
+ If you do not have an active Security Clearance, are you eligible to obtain one? (No bankruptcies, no felonies, US Citizenship, etc.)?
+
+Location:
+
+ Maine (Preferred)
+
+Security clearance:
+
+ Secret (Preferred)
+
+Work Location: Remote""","[
+    {
+        ""referece"": ""This position is supporting the NOAA contract. The contract is between two different primes, however this particular role is with a sub-contractor. This will be supporting and implementing data modeling and the current 14th Wx datasets."",
+        ""skill_name"": ""Data modeling"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""This also will be responsible for data migration strategy from Oracle to MongoDB, as well as the design process to upload and replicate to the cloud environment."",
+        ""skill_name"": ""Data migration"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Team is taking stored procedures from Oracle and migrating to NoSQL, specifically MongoDB"",
+        ""skill_name"": ""MongoDB"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Experience with Python is highly desired, but similar programming languages could be considered"",
+        ""skill_name"": ""Python"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Experience with AWS cloud is required"",
+        ""skill_name"": ""AWS cloud"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Experience with network communications is a plus"",
+        ""skill_name"": ""Network communications"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Weather experience is a plus"",
+        ""skill_name"": ""Weather"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""If you are a detail-oriented individual with a passion for data engineering and possess the required qualifications, we encourage you to apply for this exciting opportunity to contribute to our team's success."",
+        ""skill_name"": ""Detail-oriented"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""If you are a detail-oriented individual with a passion for data engineering and possess the required qualifications, we encourage you to apply for this exciting opportunity to contribute to our team's success."",
+        ""skill_name"": ""Passion for data engineering"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Interact with developers and application teams"",
+        ""skill_name"": ""Interact with developers and application teams"",
+        ""skill_type"": ""BUSINESS""
+    },
+    {
+        ""referece"": ""Need to have data and API experience"",
+        ""skill_name"": ""Data and API experience"",
+        ""skill_type"": ""BUSINESS""
+    },
+    {
+        ""referece"": ""Experience with handling data documentation"",
+        ""skill_name"": ""Data documentation"",
+        ""skill_type"": ""BUSINESS""
+    }
+]"
+"""If you are a talented AWS Data Engineer looking to make an impact in a fast-paced, innovative company, this is your opportunity!
+              StandUp Wireless is seeking a skilled AWS Data Engineer to design, develop, and maintain our data architecture on the AWS platform. The ideal candidate will have a strong background in data engineering, with extensive experience working with AWS services and technologies. In this role, you will be part of a team that builds scalable, efficient, and high-performance data pipelines to support our data analytics and business intelligence initiatives.
+              This is a remote work position. No relocation required!
+              Who We Are
+              StandUp Wireless is a wireless service provider focused on leveraging technical insights and innovative solutions to keep our communities connected. The company offers an energetic, entrepreneurial atmosphere where employees work in teams to help achieve goals. StandUp is a company built on trust that values individuals with personal initiative and creative solutions. We are a small but mighty company that makes a huge impact!
+              What You Will Be Doing
+              This position will play a critical role in transforming raw data into actionable insights to drive business growth.
+              Key responsibilities include:
+             
+               Designing, developing, and maintaining scalable, secure, and cost-effective data solutions on the AWS platform.
+               Collaborating with cross-functional teams to gather and understand business requirements, translating them into technical solutions and analytical insights.
+               Architecting and implementing data pipelines using services such as Glue, Matillion, Kinesis, Lambda, and Step Functions.
+               Working with various AWS data storage solutions such as S3, RDS, Redshift, and Neptune, ensuring optimal performance and data integrity.
+               Utilizing AWS data analytics services like Athena, QuickSight, and EMR to analyze and visualize large datasets, providing insights to stakeholders.
+               Developing and maintaining data models, statistical analyses, and machine learning algorithms to uncover trends, patterns, and correlations in the data warehouse and other reporting environments.
+               Ensuring data security, privacy, and compliance by implementing best practices and industry standards, including data encryption, access controls, and auditing.
+               Monitoring, troubleshooting, and optimizing data solutions to maintain high availability, performance, and cost-efficiency.
+               Staying current on the latest AWS services, data engineering, and data analysis technologies, advocating for their adoption where appropriate.
+             
+              How You Qualify
+             
+               Bachelor’s degree in computer science, Engineering, Data Science, or a related field.
+               2+ years of experience in data engineering, data warehousing, and data analysis with a focus on AWS services.
+               Strong knowledge of SQL, Python, and/or Java.
+               Experience with big data technologies like Hadoop, Spark, and Kafka.
+               Understanding of data modeling, ETL processes, data warehousing concepts, and statistical analysis techniques.
+               Familiarity with AWS security best practices, including IAM, KMS, and Cognito.
+               Excellent problem-solving skills and the ability to work independently and as part of a team.
+               Strong communication skills, both written and verbal, with the ability to present complex technical concepts and analytical findings to non-technical audiences.
+             
+              Preferred Qualifications:
+             
+               AWS Certified Data Analytics - Specialty or AWS Certified Big Data - Specialty certification.
+               Experience with machine learning and AI technologies on AWS, such as SageMaker and Forecast.
+               Familiarity with DevOps principles and tools, such as Git.
+             
+              What We Offer
+              StandUp offers a culture that thrives by empowering our people and respecting everyone’s work-life balance. We work hard but have fun! Members of the StandUp Wireless family engage in a highly collaborative and fast paced environment that values their opinions in every step of the creative process.
+              In addition to the inviting culture and collaborative environment, StandUp Wireless offers great benefits:
+             
+               Competitive Compensation
+               Bonus Incentive Programs
+               Medical, Dental and Vision Benefits Packages
+               401K Plan
+               Company paid Life and Long-term Disability Benefits
+               Voluntary Benefits and Wellness Programs
+               Home Office Monthly Stipends
+               Paid vacation, sick leave and holidays.
+             
+              How to Apply
+              PLEASE SUBMIT RESUME AND DESIRED SALARY TO BE CONSIDERED FOR THIS ROLE
+              Candidates must be legally eligible to work in the US for any employer.
+              We are an Equal Opportunity Employer that values diversity in the workplace!""","[
+    {
+        ""referece"": ""If you are a talented AWS Data Engineer looking to make an impact in a fast-paced, innovative company, this is your opportunity!"",
+        ""skill_name"": ""AWS Data Engineering"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""The ideal candidate will have a strong background in data engineering, with extensive experience working with AWS services and technologies. In this role, you will be part of a team that builds scalable, efficient, and high-performance data pipelines to support our data analytics and business intelligence initiatives."",
+        ""skill_name"": ""Data Architecture Design"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Architecting and implementing data pipelines using services such as Glue, Matillion, Kinesis, Lambda, and Step Functions."",
+        ""skill_name"": ""Data Pipeline Development"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Working with various AWS data storage solutions such as S3, RDS, Redshift, and Neptune, ensuring optimal performance and data integrity."",
+        ""skill_name"": ""AWS Data Storage Solutions"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Utilizing AWS data analytics services like Athena, QuickSight, and EMR to analyze and visualize large datasets, providing insights to stakeholders."",
+        ""skill_name"": ""AWS Data Analytics"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Developing and maintaining data models, statistical analyses, and machine learning algorithms to uncover trends, patterns, and correlations in the data warehouse and other reporting environments."",
+        ""skill_name"": ""Data Modeling and Analysis"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Ensuring data security, privacy, and compliance by implementing best practices and industry standards, including data encryption, access controls, and auditing."",
+        ""skill_name"": ""Data Security and Compliance"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Experience with big data technologies like Hadoop, Spark, and Kafka."",
+        ""skill_name"": ""Big Data Technologies"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Strong knowledge of SQL, Python, and/or Java."",
+        ""skill_name"": ""SQL, Python, and Java"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Excellent problem-solving skills and the ability to work independently and as part of a team."",
+        ""skill_name"": ""Problem-Solving"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Strong communication skills, both written and verbal, with the ability to present complex technical concepts and analytical findings to non-technical audiences."",
+        ""skill_name"": ""Communication"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Collaborating with cross-functional teams to gather and understand business requirements, translating them into technical solutions and analytical insights."",
+        ""skill_name"": ""Business Requirements Gathering"",
+        ""skill_type"": ""BUSINESS""
+    },
+    {
+        ""referece"": ""This position will play a critical role in transforming raw data into actionable insights to drive business growth."",
+        ""skill_name"": ""Data-Driven Decision Making"",
+        ""skill_type"": ""BUSINESS""
+    }
+]"
+"""Location
+  
+    Remote (United States)
+  
+ 
+ 
+   Type
+  
+    Full time
+  
+ 
+ 
+   Department
+  
+    Customer
+  
+ 
+ 
+
+
+ 
+  Overview
+ 
+ 
+ 
+  
+   
+     Astronomer designed Astro, a modern data orchestration platform, powered by Apache Airflow™. Astro enables companies to place Apache Airflow at the core of their data operations, providing ease of use, scalability, and enterprise-grade security, to ensure the reliable delivery of mission-critical data pipelines.
+   
+    We’re a globally-distributed and rapidly growing venture-backed team of learners, innovators and collaborators. Our mission is to build an Enterprise-grade product that makes it easy for data teams at Fortune 500’s and startups alike to adopt Apache Airflow. As a member of our team, you will be at the forefront of the industry as we strive to deliver the world's data. 
+   Your background may be unconventional; as long as you have the essential qualifications, we encourage you to apply. While having """"bonus"""" qualifications makes for a strong candidate, Astronomer values diverse experiences. Many of us at Astronomer haven't followed traditional career paths, and we welcome it if yours hasn't either.
+   
+    About this role:
+    As a Field Engineer, you will lower the barrier to entry for Airflow and make production grade data pipelines available to more users and more companies than ever before. You will work directly with some of the most innovative data teams around. With Astronomer’s tooling, you will empower organizations to build pipelines faster, run more efficiently, and drastically reduce the time to pinpoint issues in their environment.
+    At Astronomer we deeply care about the impact and impression we make on our customers. You'll be a trusted advisor to companies looking to put their data in motion. You’ll be invited to understand how they leverage data to enhance their business. Last but not least, you’ll have the opportunity to engage with the Apache Airflow project, a thriving open source community with over 1000 contributors. Every Field Engineer at Astronomer will grow to become an Airflow expert.
+   
+    What You Get to Do:
+   
+    
+     
+       Implement proof of concepts and strategic deliverables for some of our most exciting customers
+     
+    
+     
+       Give demos of deep technical concepts related to the Astronomer platform to engineering teams
+     
+    
+     
+       Become a subject matter expert on the competitive landscape of workflow orchestration
+     
+    
+     
+       Help create and maintain artifacts around Astronomer’s “why”, “what” and “how”
+     
+    
+     
+       Work cross functionally within the organization to create and maintain deep technical content for the larger Apache Airflow community
+     
+    
+     
+       Act as a liaison, collecting feedback from the field to relay back to the Product team
+     
+    
+     
+       Become an Airflow expert
+     
+   
+   
+    What you bring to the role:
+   
+    
+     
+       Patience and empathy for our customers’ challenges
+     
+    
+     
+       Curiosity to understand how we help customers drive business impact
+     
+    
+     
+       Strong verbal and written communication skills
+     
+    
+     
+       A knack for breaking down complex technical concepts into digestible tid-bits
+     
+    
+     
+       Eagerness to learn new technical concepts
+     
+    
+     
+       Familiarity with modern data stack (Snowflake, Databricks, Fivetran, Tableau, etc.)
+     
+    
+     
+       Familiarity with data engineering concepts (Orchestration, ELT, Git, Role Based Access, etc)
+     
+   
+   
+    Bonus points if you have:
+   
+    
+     
+       2+ years experience with Apache Airflow and data engineering in a production environment
+     
+    
+     
+       2+ years experience as a Sales or Solutions Engineer in the Data space, bonus for Open Source Experience
+     
+    
+     
+       Been responsible for supporting data pipelining needs of users within their organization including writing Python, creating DAGs and possibly building tools to make this easier for other users
+     
+   
+   
+    The estimated total compensation for this role ranges from $200,000 - $230,000, along with an equity component. This range is merely an estimate, and the width of the range reflects willingness to consider candidates with broad prior seniority. Actual compensation may deviate from this range based on skills, experience, and qualifications.
+   
+    #LI-Remote
+    At Astronomer, we value diversity. We are an equal opportunity employer: we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Astronomer is a remote-first company.""","[
+    {
+        ""referece"": ""Patience and empathy for our customers' challenges"",
+        ""skill_name"": ""Patience and empathy for customers' challenges"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Curiosity to understand how we help customers drive business impact"",
+        ""skill_name"": ""Curiosity to understand how we help customers drive business impact"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Strong verbal and written communication skills"",
+        ""skill_name"": ""Strong verbal and written communication skills"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""A knack for breaking down complex technical concepts into digestible tid-bits"",
+        ""skill_name"": ""Ability to break down complex technical concepts into digestible bits"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Eagerness to learn new technical concepts"",
+        ""skill_name"": ""Eagerness to learn new technical concepts"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Familiarity with modern data stack (Snowflake, Databricks, Fivetran, Tableau, etc.)"",
+        ""skill_name"": ""Familiarity with modern data stack (Snowflake, Databricks, Fivetran, Tableau, etc.)"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Familiarity with data engineering concepts (Orchestration, ELT, Git, Role Based Access, etc)"",
+        ""skill_name"": ""Familiarity with data engineering concepts (Orchestration, ELT, Git, Role Based Access, etc)"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""2+ years experience with Apache Airflow and data engineering in a production environment"",
+        ""skill_name"": ""Experience with Apache Airflow and data engineering in a production environment"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""2+ years experience as a Sales or Solutions Engineer in the Data space, bonus for Open Source Experience"",
+        ""skill_name"": ""Experience as a Sales or Solutions Engineer in the Data space, bonus for Open Source Experience"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Been responsible for supporting data pipelining needs of users within their organization including writing Python, creating DAGs and possibly building tools to make this easier for other users"",
+        ""skill_name"": ""Experience in supporting data pipelining needs of users within their organization including writing Python, creating DAGs and possibly building tools to make this easier for other users"",
+        ""skill_type"": ""TECHNICAL""
+    }
+]"
+"""This role can be performed remotely anywhere within the United States.
+  Help unlock the secrets hidden in the vast trove of data at Fullstory. We’re looking for an experienced Data Engineer to go spelunking through numerous systems and bring order to a chaotic world. Work with a top flight engineering team and help bring projects to life through the power of data. The work environment we've cultivated is aligned around our four watchwords: clarity, empathy, bionics, and trust. We value high-quality/low-ego collaboration and use automation to eliminate toil in daily work.
+  In a typical day, you might:
+ 
+   Work with internal groups from all corners of Fullstory and understand what data is most valuable to them, where it’s hiding, and how to bring it to where they are.
+   Pair with business leaders and engineers on new projects to level up our game in understanding our customers needs and how to grow the business.
+   Build monitoring around existing data pipelines to improve responsiveness and use metrics to insure we are achieving the highest quality possible.
+   Participate in strategy meetings and provide input on how we can maximize the data we have to achieve our goals
+ 
+  Here's what we're looking for:
+ 
+   Experience exploring data and building efficient ETL pipelines (Airflow, BigQuery, data automation, data mapping)
+   You view problems as puzzles to be solved and are tenacious in getting to the finish line
+   You enjoy working with people from all over the company
+   You have strong Python skills and are familiar with interacting with REST APIs efficiently at scale
+   Confidence with data in a variety of formats, at scale, and are comfortable maintaining it and transmitting it between various systems and APIs (CSV, JSON, Relational Databases, No-SQL Databases)
+ 
+  The impact you will have in 6 months:
+ 
+   Data pipelines at Fullstory operate smoothly, with a low signal to noise level
+   Our pipelines are providing new feature sets to our internal colleagues, through ML, AI and beyond
+ 
+  The impact you will have in 12 months:
+  The support the team provides to our colleagues has continued to expand, offering new and more powerful insights from the data we’re overseeing
+  #LI-Remote #LI-CD1
+  About Fullstory
+  Fullstory is on a mission to help technology leaders make better, more informed decisions by injecting behavioral data into their analytics stack. The company’s patented technology unlocks the power of quality behavioral data at scale by transforming every digital visit into actionable data and insights. With Fullstory, enterprises can get closer to their customers’ true sentiment and intentions to predict what they want, create personalized experiences, and drive conversion, loyalty, and revenue. Fullstory is headquartered in Atlanta, USA, with regional teams across North America, EMEA and APAC.
+  How we support you:
+  Fullstorians are committed to building something better—from how we approach our product, to how we care for our customers and each other. Better is only possible when we can bring our full selves to work. Along these lines, we offer:
+ 
+   Autonomy and flexibility. From a remote-first work environment and flexible paid time off, to an annual company-wide closure – Fullstorians can focus on the moments that matter.
+   Benefits. Take care of the whole you. FullStory offers sponsored benefit packages for US-based Fullstorians, and supplemental coverage options for international Fullstorians.
+   Learning opportunities. We provide professional development opportunities through training programs, career coaching sessions, and an annual learning subsidy.
+   Productivity support. We provide all Fullstorians with a monthly productivity stipend and reimburse remote colleagues for their initial home office set up.
+   Team events. Connect with fellow Fullstorians through Employee Resource Group events, Listening & Alignment weeks, and team off-sites.
+   Paid parental leave. Fullstorians have the flexibility to balance the needs of their growing families without the added stress of figuring out work and finances.
+   Grow your family. We offer a global fertility and family building benefit that encompasses all journeys to growing your family.
+   Bereavement leave. Every family is different; we leave it to you to define who your family is, and support you when you need it most.
+   Miscarriage/Pregnancy loss leave. Whether it is for a Fullstorian or their partner – take the time you need.
+ 
+  Fullstory is proud to be an equal opportunity workplace dedicated to fostering an increasingly diverse community. We want candidates of all human varieties, backgrounds, and lifestyles. There’s no problem that can’t be made better by bringing together people with a broader set of perspectives. If our product, values, and community resonate with you, please apply - we'd love to hear from you!
+  If you may require reasonable accommodations to participate in our job application or interview process, please contact accommodations@fullstory.com. Requests for accommodations will be treated confidentially.""","[
+    {
+        ""referece"": ""Experience exploring data and building efficient ETL pipelines (Airflow, BigQuery, data automation, data mapping)"",
+        ""skill_name"": ""Data Engineering"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""You have strong Python skills and are familiar with interacting with REST APIs efficiently at scale"",
+        ""skill_name"": ""Python"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Confidence with data in a variety of formats, at scale, and are comfortable maintaining it and transmitting it between various systems and APIs (CSV, JSON, Relational Databases, No-SQL Databases)"",
+        ""skill_name"": ""Data Formats"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""You view problems as puzzles to be solved and are tenacious in getting to the finish line"",
+        ""skill_name"": ""Problem Solving"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""You enjoy working with people from all over the company"",
+        ""skill_name"": ""Collaboration"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Pair with business leaders and engineers on new projects to level up our game in understanding our customers needs and how to grow the business"",
+        ""skill_name"": ""Business Acumen"",
+        ""skill_type"": ""BUSINESS""
+    },
+    {
+        ""referece"": ""Participate in strategy meetings and provide input on how we can maximize the data we have to achieve our goals"",
+        ""skill_name"": ""Data-driven Decision Making"",
+        ""skill_type"": ""BUSINESS""
+    }
+]"
+"We are looking for Oracle Cloud Financials Consultants for a large finance transformation project that includes an Oracle Cloud Financials & EPM implementation. We are specifically looking for someone with General Ledger and/or Accounting Hub. 
+
+
+
+You'll need to travel to NY one week per month (normally Tues-Thurs) with expenses paid. 
+
+
+
+Duration: 6-12 months
+Location: Eastern time zone strongly preferred, and you'll need to work ET hours
+Travel: 1 week per month (normally Tues-Thurs) onsite in NY and expenses will be paid and the other weeks are remote
+
+
+**NO 3rd Parties or Sponsorship!
+
+
+
+Requirements:
+
+Previous experience as an Oracle Cloud Financials Consultant with strong General Ledger and/or Accounting Hub on at least 1 Oracle Cloud implementation
+Ability to travel 1 week per month
+Must work for us directly, no 3rd parties, and no sponsorship","[
+    {
+        ""referece"": ""We are looking for Oracle Cloud Financials Consultants for a large finance transformation project that includes an Oracle Cloud Financials & EPM implementation."",
+        ""skill_name"": ""Oracle Cloud Financials"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""We are specifically looking for someone with General Ledger and/or Accounting Hub."",
+        ""skill_name"": ""General Ledger"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""We are specifically looking for someone with General Ledger and/or Accounting Hub."",
+        ""skill_name"": ""Accounting Hub"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""We are looking for Oracle Cloud Financials Consultants for a large finance transformation project that includes an Oracle Cloud Financials & EPM implementation."",
+        ""skill_name"": ""Finance Transformation"",
+        ""skill_type"": ""BUSINESS""
+    },
+    {
+        ""referece"": ""We are looking for Oracle Cloud Financials Consultants for a large finance transformation project that includes an Oracle Cloud Financials & EPM implementation."",
+        ""skill_name"": ""Oracle Cloud Financials Implementation"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""You'll need to travel to NY one week per month (normally Tues-Thurs) with expenses paid."",
+        ""skill_name"": ""Travel"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Location: Eastern time zone strongly preferred, and you'll need to work ET hours"",
+        ""skill_name"": ""Eastern Time Zone"",
+        ""skill_type"": ""BUSINESS""
+    }
+]"
+"Key Responsibilities:
+
+Design, develop, and implement software features using Python.
+Write clean, efficient, and well-documented code adhering to best practices.
+Test and debug code to ensure functionality, performance, and maintainability.
+Collaborate with QA testers to identify and resolve bugs.
+Participate in code reviews and provide constructive feedback to improve code quality.
+Work with various data sources (databases, APIs, files) to retrieve, manipulate, and analyze data using Python libraries (e.g., pandas, NumPy).
+Automate tasks and processes using Python scripting for improved efficiency.
+Stay up-to-date with the latest advancements in Python libraries and frameworks relevant to the role (e.g., Django, Flask for web development, TensorFlow for machine learning).
+May contribute to DevOps practices by writing deployment scripts or infrastructure automation using tools like Ansible or Python's built-in modules.
+Continuously learn and explore new technologies to enhance your skillset.
+","[
+    {
+        ""referece"": ""Design, develop, and implement software features using Python."",
+        ""skill_name"": ""Python programming"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Write clean, efficient, and well-documented code adhering to best practices."",
+        ""skill_name"": ""Code writing"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Test and debug code to ensure functionality, performance, and maintainability."",
+        ""skill_name"": ""Software testing and debugging"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Collaborate with QA testers to identify and resolve bugs."",
+        ""skill_name"": ""Collaboration"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Participate in code reviews and provide constructive feedback to improve code quality."",
+        ""skill_name"": ""Code review"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Work with various data sources (databases, APIs, files) to retrieve, manipulate, and analyze data using Python libraries (e.g., pandas, NumPy)."",
+        ""skill_name"": ""Data manipulation and analysis"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Automate tasks and processes using Python scripting for improved efficiency."",
+        ""skill_name"": ""Automation"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Stay up-to-date with the latest advancements in Python libraries and frameworks relevant to the role (e.g., Django, Flask for web development, TensorFlow for machine learning)."",
+        ""skill_name"": ""Python libraries and frameworks"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""May contribute to DevOps practices by writing deployment scripts or infrastructure automation using tools like Ansible or Python's built-in modules."",
+        ""skill_name"": ""DevOps"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Continuously learn and explore new technologies to enhance your skillset."",
+        ""skill_name"": ""Continuous learning"",
+        ""skill_type"": ""SOFT SKILL""
+    }
+]"
+"AI Engineer
+
+Remote
+
+Direct hire/Contract
+
+
+
+They ensure that the data is clean, accurate and ready for training.
+Model, build and test AI software to ensure it can take on large swaths f data and achieve desired results.
+Use Python, JavaScript and C++ to create a faster, more capable AI
+Analyse statistics, data and algorithms for projection accuracy
+Use AI analysis to make strategy recommendations that align with company goals.
+Work with a team of machine-learning and data engineers to ensure seamless AI development and integration.
+Stay current on AI knowledge, trends and regulations.
+Collect, organize and present progress with team leadership and stakeholders.
+
+
+Your Education and/or Background Experience will have:
+
+Bachelor’s degree in computer science or related field (master’s degree preferred)
+Five years of experience as in AI Engineer or similar role
+
+
+Preferred Qualifications
+
+Understanding of current database technology
+Knowledge on how to design and manipulate databases with relational algebra and SQL deep understanding on how to manipulate data which is key to making AI systems work.
+In-depth knowledge of computer programming knowledge such as Python, JavaScript and C++ to create faster and more capable AI.
+Deep understanding of statistics, data science, linear algebra and algorithms
+ AI analytical skills to make strategy recommendations that align with the Company goals
+Willingness to learn and continue developing knowledge in an up-and-coming field
+Excellent problem-solving skills with the ability to thrive in a demanding, fast-paced work environment
+Strong interpersonal and communication skills and a willingness to collaborate cross-functionally with different teams 
+knowledge of Generative AI Application on AWS can be added advantage.","[
+    {
+        ""referece"": ""They ensure that the data is clean, accurate and ready for training."",
+        ""skill_name"": ""Data cleaning and preparation"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Model, build and test AI software to ensure it can take on large swaths f data and achieve desired results."",
+        ""skill_name"": ""AI software development"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Use Python, JavaScript and C++ to create a faster, more capable AI"",
+        ""skill_name"": ""Programming languages (Python, JavaScript, C++)"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Analyse statistics, data and algorithms for projection accuracy"",
+        ""skill_name"": ""Data analysis and statistics"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Use AI analysis to make strategy recommendations that align with company goals."",
+        ""skill_name"": ""AI strategy recommendations"",
+        ""skill_type"": ""BUSINESS""
+    },
+    {
+        ""referece"": ""Work with a team of machine-learning and data engineers to ensure seamless AI development and integration."",
+        ""skill_name"": ""Collaboration with machine learning and data engineers"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Stay current on AI knowledge, trends and regulations."",
+        ""skill_name"": ""Continuous learning"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Collect, organize and present progress with team leadership and stakeholders."",
+        ""skill_name"": ""Presentation and communication"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Understanding of current database technology"",
+        ""skill_name"": ""Database technology"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Knowledge on how to design and manipulate databases with relational algebra and SQL deep understanding on how to manipulate data which is key to making AI systems work."",
+        ""skill_name"": ""Database design and manipulation"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Deep understanding of statistics, data science, linear algebra and algorithms"",
+        ""skill_name"": ""Statistics, data science, linear algebra, and algorithms"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""AI analytical skills to make strategy recommendations that align with the Company goals"",
+        ""skill_name"": ""AI analytical skills"",
+        ""skill_type"": ""BUSINESS""
+    },
+    {
+        ""referece"": ""Excellent problem-solving skills with the ability to thrive in a demanding, fast-paced work environment"",
+        ""skill_name"": ""Problem-solving and adaptability"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Strong interpersonal and communication skills and a willingness to collaborate cross-functionally with different teams"",
+        ""skill_name"": ""Collaboration and communication"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""knowledge of Generative AI Application on AWS can be added advantage."",
+        ""skill_name"": ""Generative AI on AWS"",
+        ""skill_type"": ""TECHNICAL""
+    }
+]"
+"Job Title: Software Engineer
+Work Arrangement: 100% remote (EST hours)
+Contract Duration: Until 12/31/24, with potential extension into 2025
+
+
+Responsibilities:
+
+Utilize Kafka to build and manage event-driven systems effectively.
+Develop and consume REST APIs using C#.
+Preference for experience with GraphQL and Hasura.
+Demonstrate hands-on expertise in the Azure cloud data ecosystem.
+Additional proficiency in Python and PowerShell is a plus.
+Actively seek out and take initiative on tasks, rather than waiting for direction.
+Exhibit strong independence in work approach.
+Demonstrate a commitment to going above and beyond in daily tasks.
+Requirements:
+
+Proven experience using Kafka to build and manage event-driven systems.
+Demonstrable proficiency in developing and consuming REST APIs using C#.
+Strong familiarity with GraphQL and Hasura preferred.
+Hands-on experience with the Azure cloud data ecosystem is highly desirable.
+Nice to have experience with Python and PowerShell.
+Ability to work independently and proactively seek out tasks.
+Commitment to delivering high-quality work and exceeding expectations.","[
+    {
+        ""referece"": ""Utilize Kafka to build and manage event-driven systems effectively."",
+        ""skill_name"": ""Kafka"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Develop and consume REST APIs using C#."",
+        ""skill_name"": ""C#"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Preference for experience with GraphQL and Hasura."",
+        ""skill_name"": ""GraphQL"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Preference for experience with GraphQL and Hasura."",
+        ""skill_name"": ""Hasura"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Demonstrate hands-on expertise in the Azure cloud data ecosystem."",
+        ""skill_name"": ""Azure cloud data ecosystem"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Additional proficiency in Python and PowerShell is a plus."",
+        ""skill_name"": ""Python"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Additional proficiency in Python and PowerShell is a plus."",
+        ""skill_name"": ""PowerShell"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""Actively seek out and take initiative on tasks, rather than waiting for direction."",
+        ""skill_name"": ""Initiative"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Exhibit strong independence in work approach."",
+        ""skill_name"": ""Independence"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""Demonstrate a commitment to going above and beyond in daily tasks."",
+        ""skill_name"": ""Commitment"",
+        ""skill_type"": ""SOFT SKILL""
+    }
+]"
+"""Hello! Are you ready to Work from Home and transform your career? If you have great consulting skills and know you can consistently delight our customers and help grow our accounts, Modus is the perfect fit for you. Our high performance team helps our clients to build awesome solutions to accomplish their goals and vision. Are you interested in working from home with some of the best talent on the planet? Then keep reading.
+  
+ We're looking for an experienced and enthusiastic DevOps Engineer to join the team at Modus. 
+  About You 
+  Experience: Senior Level 
+  [In reference to requisition 1856] 
+  You love optimization and automation. Building and deploying consistently is second nature for you. You walk the line between software development and system administration – maybe you're a sysadmin who was a coder in a past life? (Or vice versa?) 
+  You develop Infrastructure as Code with tools like Terraform, CloudFormation and AWS SAM. You understand what makes a cloud infrastructure secure, scalable, and highly-available. You’ve set up CI/CD pipelines so software engineers can push from their desktop to production, with all required steps in between. What will you be provisioning with today? Ansible? Packer? And you monitor it all with tools like CloudWatch, DataDog, LogicMonitor, etc. 
+  This is a senior-level position. That means you enjoy working with people and mentoring others. Your technical skills are top-notch but you know that the social ones are just as important. You're an excellent communicator who has a knack for knowing when everyone isn't on the same page, and getting them there. You can deal with stress and uncertainty, and lead the team away from them. You don't need to be told what to do, because when you see something that needs doing, you do it. 
+  You are comfortable working in an agile environment with a globally-distributed team. You’ve got the discipline to work autonomously, and the communication skills to collaborate with your team. Having overlap with your team is critical when working in a global remote team. Modus requires all team members to overlap with EST hours daily. In addition, reliable high-speed internet is a must. 
+ 
+  
+   You love learning and understand that software is an ever-evolving world. You enjoy playing with new tech and exploring areas that you might not have experience with yet. You are self-driven, self-learner willing to share knowledge and participate actively in your community.
+    
+    Having overlap with your team is critical when working in a global remote team. Modus requires all team members to overlap with EST hours daily. In addition, reliable high speed internet is a must.
+    
+    Things You Might Do
+    
+    Modus is a fast-growing, and remote-first company, so you'll likely get experience on many different projects across the organization. That said, here are some things you'll probably do:
+    
+    
+   
+    Give back to the community via open source and blog posts
+    Travel and meet great people- as part of our remote-first lifestyle, it's important that we come together as needed to work together, meet each other in person and have fun together. Please keep that in mind when you apply
+    Teach and be taught: Modus creates active teams that work in internal and external projects together, giving opportunities to stay relevant with the latest technologies and learning from experts worldwide
+    Interact directly with internal and external clients to represent Modus and its values
+    Discover our comprehensive learning benefits, available to every Modite. Gain access to over 12,000 courses on a licensed learning platform. Plus, enjoy paid professional development time, including tailored training and workshops. Your growth matters to us—we’re here to help you thrive
+   
+    Our Benefits may vary according to the Country you are located in, so please reach out to our recruiter in case you have any questions. 
+    
+    If you live in Costa Rica and you become a full-time employee, we offer:
+    
+    
+   
+    Competitive compensation
+    100% Remote work (could vary according to the client's needs)
+    Flexible working hours
+    Travel according to client's needs
+    Company paid private insurance
+    The chance to work side-by-side with thought leaders in emerging tech
+    Social Security (CCSS) by law
+   
+  
+   If you live in France, Switzerland, Sweden, Germany, or the Netherlands and you become a full-time employee, we offer:
+   
+  
+   A permanent employment contract according to the labor laws of the country you are living in (PTO may vary depending on the countries listed above)
+   A laptop and an onboarding budget for home office need
+   Mental Health Support Program
+   Health coverage (sick leave)
+   Conference: Flight/train ticket + accommodation + food
+   Remote work or hybrid work (Paris and Lyon)
+  
+    If you live in Romania and you become a full-time employee, we offer:
+   
+   
+  
+   Competitive compensation
+   Medical insurance 
+   Meal vouchers
+   Telework indemnity
+   Bookster subscription
+   Extra PTO Days with Tenure per year worked(up to max. 4 days)
+   Possibility to obtain paid certification/courses if they align with company goals and are relevant to the employee's role
+   Client Referral program
+   100 % remote work and the possibility to work from the office
+   The chance to work side-by-side with thought leaders in emerging tech
+  
+    If you live in the USA and you become a full-time employee, we offer:
+   
+   
+  
+   Competitive compensation
+   Health insurance (medical, vision, and dental) and other benefits (FSA and HSA)
+   Virtual Care support
+   401(K) match to up to 3.5% of your annual salary
+   Optional Voluntary Short or Long-term disability insurance.
+   Remote work
+   The chance to work side-by-side with thought leaders in emerging tech
+   Flexible Time Off/PTO
+  
+    If you live anywhere else, you can become a contractor, and then we offer:
+   
+   
+  
+   Competitive compensation
+   100% Remote work (could vary according to the client's needs)
+   Travel according to client's needs
+   Employee Referral Program
+   The chance to work side-by-side with thought leaders in emerging tech
+  
+    About Modus
+   
+   Modus Create is a digital product group that accelerates digital transformation. We use high-performing teams, emerging technology, and “new school” product development tools and methods to accelerate business outcomes. We support our clients across four core delivery areas: business and product strategy consulting, customer experience, cloud services, and Agile software delivery.
+   Driven by a team of world-class talent, we have been recognized by the Inc 5000 list of Fastest Growing Private Companies nine years in a row, the Washington Business Journal list of Fastest Growing Companies in the Washington, DC area three years in a row, and a top company for remote work by FlexJobs. We’re also an official partner to Atlassian, AWS, Cloudflare, GitHub, InVision, Ionic Framework, and Vue.js! 
+   Founded in 2011, with our HQ in Reston, Virginia and offices in Costa Rica, Romania and France, Modus has employees all over the world. Based on the model of an open source team, Modites work remotely and are located across the globe. This has allowed us to hire the best talent in the world, no matter where they live. Our highly collaborative, autonomous, and effective working environment is fueled by a team unified by a love of continuous learning. Our years of thought leadership including books, whitepapers, blog posts, conferences and MeetUp talks, demonstrate our commitment to sharing what we’ve learned. 
+   We encourage every Modus employee to do the same. Our company is a platform for the growth of our employees. Through working with our distributed team of experts on challenging projects, every person that joins the Modus team can expect to continue growing and learning every day. This is your chance to be part of building something great. 
+  
+   Federal law requires Modus Create to confirm the identity and employment eligibility of all persons hired to work in the United States as full-time employees.
+   The statement above does not apply to 1099 Contractors or International Contractors
+  
+    Modus Create is committed to creating a diverse environment, and each of us contributes to inclusion. All qualified applicants will receive consideration for employment without regard to race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or local protected class.""","[
+    {
+        ""referece"": ""We're looking for an experienced and enthusiastic DevOps Engineer to join the team at Modus."",
+        ""skill_name"": ""DevOps Engineering"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""You develop Infrastructure as Code with tools like Terraform, CloudFormation and AWS SAM."",
+        ""skill_name"": ""Infrastructure as Code"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""You understand what makes a cloud infrastructure secure, scalable, and highly-available."",
+        ""skill_name"": ""Cloud Infrastructure"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""You've set up CI/CD pipelines so software engineers can push from their desktop to production, with all required steps in between."",
+        ""skill_name"": ""CI/CD Pipelines"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""You monitor it all with tools like CloudWatch, DataDog, LogicMonitor, etc."",
+        ""skill_name"": ""Monitoring Tools"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""You develop Infrastructure as Code with tools like Terraform, CloudFormation and AWS SAM. You understand what makes a cloud infrastructure secure, scalable, and highly-available."",
+        ""skill_name"": ""Automation Tools"",
+        ""skill_type"": ""TECHNICAL""
+    },
+    {
+        ""referece"": ""You're an excellent communicator who has a knack for knowing when everyone isn't on the same page, and getting them there."",
+        ""skill_name"": ""Communication"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""That means you enjoy working with people and mentoring others."",
+        ""skill_name"": ""Mentoring"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""You can deal with stress and uncertainty, and lead the team away from them."",
+        ""skill_name"": ""Stress Management"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""You've got the discipline to work autonomously, and the communication skills to collaborate with your team."",
+        ""skill_name"": ""Autonomy"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""You've got the discipline to work autonomously, and the communication skills to collaborate with your team."",
+        ""skill_name"": ""Collaboration"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""You love learning and understand that software is an ever-evolving world. You enjoy playing with new tech and exploring areas that you might not have experience with yet."",
+        ""skill_name"": ""Self-Learning"",
+        ""skill_type"": ""SOFT SKILL""
+    },
+    {
+        ""referece"": ""You are self-driven, self-learner willing to share knowledge and participate actively in your community."",
+        ""skill_name"": ""Knowledge Sharing"",
+        ""skill_type"": ""SOFT SKILL""
+    }
+]"
