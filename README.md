@@ -16,3 +16,8 @@
 1. Follow above steps to setup the environment
 2. Update the job_text.txt file with the job description.
 3. Run `python job_skills.py`
+
+
+# Skills Evaluator - Simple example showing how we could potentially grade the skill outputs from a model. Utilizes Sonnet as the grader and Haiku as the generator.
+1. Follow above steps to setup the environment
+2. Run `python signature_opt.py`
